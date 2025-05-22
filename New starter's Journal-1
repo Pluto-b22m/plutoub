@@ -1,3 +1,13 @@
-#Learning Journal-1 (2025.0522)
+# Learning Journal - 1 (2025.05.22)
 
-Today, I started studying about python.
+Today, I started learning Python.
+
+I learned how to:
+- use the `print()` function to display text,
+- create and use variables,
+- get user input using the `input()` function.
+
+It was my first time writing code, and I had fun seeing how Python works.  
+Some parts were confusing, but I enjoyed trying out simple examples.
+
+In my next coding class, I will learn how `if` statements work.
