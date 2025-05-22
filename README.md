@@ -1,6 +1,6 @@
-# My Python Learning Journal
+# My Computer Learning Journal
 
-Hi! This is my personal journal where I write what I learn while studying Python.
+Hi! This is my personal journal where I write about what I learn while studying computers.
 
 I started this in May 2025 to track my progress and improve my programming skills step by step.
 
